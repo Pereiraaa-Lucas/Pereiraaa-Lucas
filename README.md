@@ -4,8 +4,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), com formação p
 O que busco:
 Estou em plena transição de carreira, focado em conquistar minha primeira oportunidade como Estagiário ou Suporte Júnior,Pleno e Sênior. Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível.
 
-- 🔭 Desevolvedor Front-End 
-- 🌱 Graduado em ADS
+- Desevolvedor Front-End 
+- 🎓 Graduado em ADS
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Pereiraaa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
