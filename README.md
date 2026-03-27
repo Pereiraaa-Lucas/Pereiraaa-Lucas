@@ -1,8 +1,11 @@
-## Olá! Eu sou o Lucas Pereira
+Olá! Sou Lucas Pereira, tenho 21 anos e sou um aspirante a Desenvolvedor Front-End movido pelo desafio de transformar linhas de código em experiências digitais memoráveis.
+Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), com formação prevista para julho de 2028. Minha jornada na tecnologia começou com uma base sólida em Python e JavaScript (via Curso em Vídeo), e desde então venho refinando minha capacidade de unir código limpo a um design moderno e funcional.
+
+O que busco:
+Estou em plena transição de carreira, focado em conquistar minha primeira oportunidade como Estagiário ou Suporte Júnior. Acredito que a tecnologia deve ser visualmente impressionante, mas, acima de tudo, eficiente e acessível.
 
 - 🔭 Desevolvedor Front-End 
 - 🌱 Graduado em ADS
-- 😄 Pronome: Ele/Dele
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Pereiraaa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
