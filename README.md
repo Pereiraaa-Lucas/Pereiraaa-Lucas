@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Pereiraaa-Lucas's GitHub profile" src="dark_mode.svg" />
 </picture>
-<h4 data-importer="text" align="center">Desenvolvedor Front-End e Back-End  em Formação | Análise e Desenvolvimento de Sistemas (ADS) | JavaScript, TypeScript, React.js, Next.js, Tailwind CSS & Python</h4>
+<h4 data-importer="text" align="center">Desenvolvedor Front-End e Back-End  em Formação | Análise e Desenvolvimento de Sistemas (ADS) | JavaScript | TypeScript | React.js | Next.js | Tailwind | CSS | Python</h4>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
