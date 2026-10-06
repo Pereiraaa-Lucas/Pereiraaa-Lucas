@@ -33,6 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=radical&disable_animations=true" alt="Top Langs" />
+</p>
+
 ###
 
 <div data-importer="socials" align="left">
