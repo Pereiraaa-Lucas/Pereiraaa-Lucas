@@ -56,8 +56,9 @@ Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-Lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-Lucas&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Repositórios-12-blue?style=for-the-badge&logo=github" alt="Repositórios" />
+  <img src="https://img.shields.io/badge/Commits_2026-133-green?style=for-the-badge&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Seguidores-5-orange?style=for-the-badge&logo=github" alt="Seguidores" />
 </p>
 
 ### 🔗 Vamos nos conectar?
