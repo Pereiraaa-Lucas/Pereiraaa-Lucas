@@ -30,7 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" alt="aws logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
+  <img width="12" />
 </div>
 
 Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (previsão de conclusão: julho de 2028). Sou apaixonado por tecnologia e focado em transformar ideias em soluções digitais modernas, eficientes, responsivas e acessíveis.
