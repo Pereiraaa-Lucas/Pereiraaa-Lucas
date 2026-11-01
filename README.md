@@ -29,10 +29,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
-<!-- Logo da AWS via Shield.io -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="40" alt="AWS Logo" />
-  <!-- Logo do Google Cloud -->
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="40" alt="Google Cloud Logo" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Logo" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Logo" />
+</p>
 </div>
 
 Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (previsão de conclusão: julho de 2028). Sou apaixonado por tecnologia e focado em transformar ideias em soluções digitais modernas, eficientes, responsivas e acessíveis.
