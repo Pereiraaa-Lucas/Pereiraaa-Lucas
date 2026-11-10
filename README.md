@@ -65,10 +65,14 @@ Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (
   <br><br>
 
   <!-- GitHub Stats (Online) -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-lucas&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&icon_color=ff7300&text_color=ffffff" alt="GitHub Stats" />
   
   <br><br>
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-lucas&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&text_color=ffffff" alt="Top Languages" />
+</div>
+
   <!-- Top Languages (Online) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-lucas&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&text_color=ffffff" alt="Top Languages" />
 </div>
