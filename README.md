@@ -64,22 +64,6 @@ Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (
   
   <br><br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pereiraaa-lucas&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pereiraaa-lucas/Pereiraaa-lucas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode&theme=dark" alt="Minhas Skills" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pereiraaa-lucas&color=ff7300&style=flat-square&label=VISITANTES" alt="Contador de Visitas" />
-</div>
-
 <!-- Rodapé -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7300,100:0a0a0a&height=100&section=footer" width="100%"/>
