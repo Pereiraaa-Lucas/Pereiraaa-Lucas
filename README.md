@@ -55,9 +55,27 @@ Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pereiraaa-Lucas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</p>
+<!-- Seção de Estatísticas (Cards) -->
+### Statistics
+
+<div align="center">
+  <!-- Card de Streak (Laranja) -->
+  <img src="https://streak-stats.demolab.com/?user=gustavomateusmagalhaespessoal-sketch&theme=dark&background=0a0a0a&border=ff7300&stroke=ff7300&ring=ff7300&fire=ff7300&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff7300&sideLabels=888888&dates=888888" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <!-- Cards locais gerados pelo GitHub Actions (caso você os regenere com o tema laranja, certifique-se de atualizar também a configuração do gerador de stats para usar laranja) -->
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</div>
+
+<!-- Rodapé (Laranja) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7300,100:0a0a0a&height=100&section=footer" width="100%"/>
+</div>
 
 ### 🔗 Vamos nos conectar?
 
