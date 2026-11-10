@@ -59,21 +59,21 @@ Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (
 ### Statistics
 
 <div align="center">
-  <!-- Card de Streak (Laranja) -->
+  <!-- Card de Streak -->
   <img src="https://streak-stats.demolab.com/?user=Pereiraaa-lucas&theme=dark&background=0a0a0a&border=ff7300&stroke=ff7300&ring=ff7300&fire=ff7300&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff7300&sideLabels=888888&dates=888888" alt="GitHub Streak" />
   
   <br><br>
 
-  <!-- GitHub Stats (Online) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-lucas&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&icon_color=ff7300&text_color=ffffff" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-lucas&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=vue&title_color=ff7300&icon_color=ff7300&text_color=ffffff&bg_color=0a0a0a" alt="GitHub Stats" />
   
   <br><br>
   
-  <!-- Top Languages (Online) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-lucas&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&text_color=ffffff" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-lucas&layout=compact&langs_count=8&theme=vue&title_color=ff7300&text_color=ffffff&bg_color=0a0a0a" alt="Top Languages" />
 </div>
 
-<!-- Rodapé (Laranja) -->
+<!-- Rodapé -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7300,100:0a0a0a&height=100&section=footer" width="100%"/>
 </div>
