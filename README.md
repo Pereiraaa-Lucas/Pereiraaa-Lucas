@@ -60,16 +60,17 @@ Olá! Sou o Lucas Pereira, estudante de Análise e Desenvolvimento de Sistemas (
 
 <div align="center">
   <!-- Card de Streak (Laranja) -->
-  <img src="https://streak-stats.demolab.com/?user=gustavomateusmagalhaespessoal-sketch&theme=dark&background=0a0a0a&border=ff7300&stroke=ff7300&ring=ff7300&fire=ff7300&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff7300&sideLabels=888888&dates=888888" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Pereiraaa-lucas&theme=dark&background=0a0a0a&border=ff7300&stroke=ff7300&ring=ff7300&fire=ff7300&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff7300&sideLabels=888888&dates=888888" alt="GitHub Streak" />
   
   <br><br>
 
-  <!-- Cards locais gerados pelo GitHub Actions (caso você os regenere com o tema laranja, certifique-se de atualizar também a configuração do gerador de stats para usar laranja) -->
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <!-- GitHub Stats (Online) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pereiraaa-lucas&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&icon_color=ff7300&text_color=ffffff" alt="GitHub Stats" />
   
   <br><br>
   
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <!-- Top Languages (Online) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereiraaa-lucas&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff7300&title_color=ff7300&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <!-- Rodapé (Laranja) -->
